@@ -78,6 +78,41 @@ export default [
 \`\`\``,
     },
     {
+        label: "csharp",
+        value: `
+\`\`\`cs
+
+\`\`\``,
+    },
+    {
+        label: "vbnet",
+        value: `
+\`\`\`vbnet
+
+\`\`\``,
+    },
+    {
+        label: "sql",
+        value: `
+\`\`\`sql
+
+\`\`\``,
+    },
+    {
+        label: "html",
+        value: `
+\`\`\`html
+
+\`\`\``,
+    },
+    {
+        label: "css",
+        value: `
+\`\`\`css
+
+\`\`\``,
+    },
+    {
         label: "todo",
         value: "- [ ] ",
     },
